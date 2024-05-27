@@ -11,7 +11,7 @@ To run the game, simply open the `index.html` file in a web browser that support
 ## How to Play
 
 -   Use the arrow keys (Player 1) and WASD keys (Player 2) to move your characters.
--   Press the spacebar (Player 1) and Shift key (Player 2) to attack.
+-   Press the spacebar (Player 1) and Arrow down (Player 2) to attack.
 -   Dodge enemy attacks by moving away from them.
 -   Defeat your opponent by reducing their health points (HP) to zero.
 
